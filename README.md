@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# I'm Ripal Suthar 👋
+# I'm Ripal 👋
 
 ### Data Engineer 
 
