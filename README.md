@@ -4,7 +4,7 @@
 
 # Hi, I'm Ripal Suthar 👋
 
-### Data Engineer · Cloud Data Specialist · ML Pipeline Builder
+### Data Engineer 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+meaningful+insights;Building+scalable+cloud+data+pipelines;Azure+%7C+Databricks+%7C+Spark+%7C+Delta+Lake)](https://git.io/typing-svg)
 
