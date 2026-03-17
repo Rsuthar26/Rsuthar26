@@ -31,7 +31,7 @@ I care deeply about clean architecture, well-tested pipelines, and making data g
 | 📊 **Real-time Analytics Platform** | Event-driven streaming pipeline with end-to-end monitoring and alerting | Azure Event Hubs · Spark Structured Streaming · Synapse |
 | 🤖 **ML Feature Store** | Centralised feature engineering and versioning layer for ML model training | PySpark · MLflow · scikit-learn · Delta Lake |
 
-> 💡 *Always open to collaborating on data engineering or MLOps projects — reach out!*
+> 💡 *Always open to collaborating on data engineering/ Analytics engineering — reach out!*
 
 ---
 
@@ -45,12 +45,10 @@ I care deeply about clean architecture, well-tested pipelines, and making data g
 ### ⚙️ Data Engineering & Big Data
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🗄️ Databases
@@ -60,11 +58,9 @@ I care deeply about clean architecture, well-tested pipelines, and making data g
 
 ### 📦 Libraries & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### 🔧 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
