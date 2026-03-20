@@ -2,7 +2,7 @@
 
 ## 🧠 About Me
 
-Data Engineer with hands-on experience building end-to-end cloud-native pipelines on **AWS** and **Azure**. I've delivered production-grade solutions spanning property market intelligence, real-time analytics, and lakehouse architecture — turning raw data into reliable, scalable platforms that teams actually depend on.
+**Data Engineer** with hands-on experience building end-to-end cloud-native pipelines on **AWS** and **Azure**. I've delivered production-grade solutions spanning property market intelligence, real-time analytics, and lakehouse architecture — turning raw data into reliable, scalable platforms that teams actually depend on.
 
 ---
 
