@@ -2,7 +2,7 @@
 
 ## 🧠 About Me
 
-**Data Engineer** with hands-on experience building end-to-end cloud-native pipelines on **AWS** and **Azure**. I've delivered production-grade solutions spanning property market intelligence, real-time analytics, and lakehouse architecture — turning raw data into reliable, scalable platforms that teams actually depend on.
+Data Engineer with hands-on experience building end-to-end cloud-native pipelines on **AWS** and **Azure**. I've delivered production-grade solutions spanning property market intelligence, real-time analytics, and lakehouse architecture — turning raw data into reliable, scalable platforms that teams actually depend on.
 
 ---
 
@@ -58,6 +58,17 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rsuthar26&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rsuthar26&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
+</div>
 
 ---
 
