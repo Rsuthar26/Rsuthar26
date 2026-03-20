@@ -1,0 +1,18 @@
+<svg width="900" height="90" viewBox="0 0 900 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lg2" gradientUnits="userSpaceOnUse" x1="350" y1="14" x2="550" y2="14">
+      <stop offset="0%"   stop-color="#0078D4" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#0078D4" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0078D4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes draw2 { from { stroke-dashoffset: 200; } to { stroke-dashoffset: 0; } }
+    .fl { stroke-dasharray: 200; stroke-dashoffset: 200; animation: draw2 2s cubic-bezier(0.22,1,0.36,1) 0.3s forwards; }
+  </style>
+  <rect width="900" height="90" fill="#000000"/>
+  <line class="fl" x1="350" y1="14" x2="550" y2="14" stroke="url(#lg2)" stroke-width="0.8"/>
+  <text x="450" y="46" font-family="Georgia,'Times New Roman',serif" font-size="12.5" font-style="italic" fill="#6E6E73" text-anchor="middle" letter-spacing="0.3">"Data is the new oil — but only if you know how to refine it."</text>
+  <text x="450" y="70" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10" font-weight="300" fill="#3A3A3C" text-anchor="middle" letter-spacing="3">© Ripal Suthar</text>
+  <line x1="0" y1="89" x2="900" y2="89" stroke="#1D1D1F" stroke-width="1"/>
+</svg>
