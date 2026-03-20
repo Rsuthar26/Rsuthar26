@@ -70,6 +70,18 @@ Data Engineer with hands-on experience building end-to-end cloud-native pipeline
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rsuthar26&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rsuthar26&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
 ---
 
 ## 📫 Get In Touch
