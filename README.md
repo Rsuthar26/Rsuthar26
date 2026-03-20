@@ -1,26 +1,76 @@
-<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg" overflow="hidden">
-  <defs>
-    <linearGradient id="lg" gradientUnits="userSpaceOnUse" x1="300" y1="100" x2="600" y2="100">
-      <stop offset="0%"   stop-color="#0078D4" stop-opacity="0"/>
-      <stop offset="50%"  stop-color="#0078D4" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#0078D4" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <style>
-    @keyframes draw { from { stroke-dashoffset: 300; } to { stroke-dashoffset: 0; } }
-    @keyframes up   { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
-    @keyframes fin  { from { opacity: 0; } to { opacity: 1; } }
-    .nm { animation: up  1.4s cubic-bezier(0.22,1,0.36,1) 0.0s both; }
-    .dl { stroke-dasharray: 300; stroke-dashoffset: 300; animation: draw 1.6s cubic-bezier(0.22,1,0.36,1) 0.8s forwards; }
-    .rl { animation: up  1.2s cubic-bezier(0.22,1,0.36,1) 1.2s both; }
-    .sk { animation: fin 1.4s ease-out 1.7s both; }
-  </style>
-  <rect width="900" height="180" fill="#000000"/>
-  <text x="450" y="178" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="210" font-weight="100" fill="#0078D4" opacity="0.03" text-anchor="middle" dominant-baseline="auto" letter-spacing="14">RS</text>
-  <text class="nm" x="450" y="84" font-family="-apple-system,'SF Pro Display','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="56" font-weight="200" fill="#F5F5F7" text-anchor="middle" letter-spacing="10">RIPAL SUTHAR</text>
-  <line class="dl" x1="300" y1="100" x2="600" y2="100" stroke="url(#lg)" stroke-width="1.2"/>
-  <text class="rl" x="450" y="132" font-family="-apple-system,'SF Pro Text','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="400" fill="#86868B" text-anchor="middle" letter-spacing="9">DATA ENGINEER</text>
-  <text class="sk" x="450" y="157" font-family="-apple-system,'SF Pro Text','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10" font-weight="300" fill="#3A3A3C" text-anchor="middle" letter-spacing="1.8">Databricks · Spark · Delta Lake · Cloud (AWS / Azure / GCP)</text>
-  <line x1="0" y1="0"   x2="900" y2="0"   stroke="#1D1D1F" stroke-width="1"/>
-  <line x1="0" y1="179" x2="900" y2="179" stroke="#1D1D1F" stroke-width="1"/>
-</svg>
+<div align="center">
+<img src="header.svg" width="100%"/>
+</div>
+
+<br/>
+
+## 🧠 About Me
+
+I'm a **Data Engineer** passionate about designing and building cloud-native data platforms that scale. I specialise in the **Azure ecosystem** — from ingestion with Azure Data Factory, through transformation with Databricks and Spark, to serving layers on Azure Synapse Analytics and Delta Lake.
+
+I care deeply about clean architecture, well-tested pipelines, and making data genuinely useful for the people who rely on it.
+
+---
+
+## 🚀 Current Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔷 **Lakehouse Accelerator** | Modular ADF + Databricks pipeline templates for rapid Data Lakehouse deployment | ADF · Databricks · Delta Lake · Python |
+| 📊 **Real-time Analytics Platform** | Event-driven streaming pipeline with end-to-end monitoring and alerting | Azure Event Hubs · Spark Structured Streaming · Synapse |
+| 🤖 **ML Feature Store** | Centralised feature engineering and versioning layer for ML model training | PySpark · MLflow · scikit-learn · Delta Lake |
+
+> 💡 *Always open to collaborating on data engineering / analytics engineering — reach out!*
+
+---
+
+## 🛠️ Tech Stack
+
+**☁️ Cloud**
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**⚙️ Data Engineering**
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logo=databricks&logoColor=white)
+
+**💻 Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**🗄️ Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**📦 Libraries & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**🔧 Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+---
+
+## 📫 Get In Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripal-ra/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rsuthar26)
+
+<br/>
+
+<div align="center">
+<img src="footer.svg" width="100%"/>
+</div>
