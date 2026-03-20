@@ -77,13 +77,9 @@ Data Engineer with hands-on experience building end-to-end cloud-native pipeline
 
 </div>
 
----
-
-## 🐍 Contribution Activity
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rsuthar26/Rsuthar26/dist/github-snake.svg" alt="Snake animation"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rsuthar26&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
