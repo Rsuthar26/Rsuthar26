@@ -2,9 +2,7 @@
 
 ## 🧠 About Me
 
-I'm a **Data Engineer** passionate about designing and building cloud-native data platforms that scale. I specialise in the **Azure ecosystem** — from ingestion with Azure Data Factory, through transformation with Databricks and Spark, to serving layers on Azure Synapse Analytics and Delta Lake.
-
-I care deeply about clean architecture, well-tested pipelines, and making data genuinely useful for the people who rely on it.
+Data Engineer with hands-on experience building end-to-end cloud-native pipelines on **AWS** and **Azure**. I've delivered production-grade solutions spanning property market intelligence, real-time analytics, and lakehouse architecture — turning raw data into reliable, scalable platforms that teams actually depend on.
 
 ---
 
