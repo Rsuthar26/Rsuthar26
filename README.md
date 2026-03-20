@@ -33,11 +33,7 @@ I care deeply about clean architecture, well-tested pipelines, and making data g
     <td align="center" valign="top" width="17%">
       <h3>⚙️ Data Engineering</h3>
       <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/><br/><br/>
-      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/><br/><br/>
-      <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br/><br/>
-      <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white"/><br/><br/>
-      <img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br/><br/>
-      <img src="https://img.shields.io/badge/Event_Hubs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
     </td>
     <td align="center" valign="top" width="17%">
       <h3>💻 Languages</h3>
