@@ -10,9 +10,9 @@ Data Engineer with hands-on experience building end-to-end cloud-native pipeline
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏠 [**MarketFlow Property Intelligence**](https://github.com/Rsuthar26/MarketFlow-Property-Intelligence-AWS-DE-) | End-to-end AWS data engineering pipeline for property market intelligence and analytics | AWS · S3 · Glue · Athena · Python |
-| 🔷 [**Azure DE Project**](https://github.com/Rsuthar26/Azure-DE-Project-) | Cloud-native data engineering solution built on the Azure ecosystem with scalable pipeline architecture | ADF · Databricks · Synapse · Delta Lake |
-| 🏡 [**UrbanNest Property Analytics**](https://github.com/Rsuthar26/UrbanNest-Property-Analytics-AWS-Data-Pipeline-Project) | AWS data pipeline project delivering end-to-end property analytics from ingestion to serving layer | AWS · Spark · S3 · Lambda · Python |
+| 🏠 <a href="https://github.com/Rsuthar26/MarketFlow-Property-Intelligence-AWS-DE-"><b>MarketFlow Property Intelligence</b></a> | End-to-end AWS data engineering pipeline for property market intelligence and analytics | AWS · S3 · Glue · Athena · Python |
+| 🔷 <a href="https://github.com/Rsuthar26/Azure-DE-Project-"><b>Azure DE Project</b></a> | Cloud-native data engineering solution built on the Azure ecosystem with scalable pipeline architecture | ADF · Databricks · Synapse · Delta Lake |
+| 🏡 <a href="https://github.com/Rsuthar26/UrbanNest-Property-Analytics-AWS-Data-Pipeline-Project"><b>UrbanNest Property Analytics</b></a> | AWS data pipeline project delivering end-to-end property analytics from ingestion to serving layer | AWS · Spark · S3 · Lambda · Python |
 
 > 💡 *Always open to collaborating on data engineering / analytics engineering — reach out!*
 
