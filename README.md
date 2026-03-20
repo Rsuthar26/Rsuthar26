@@ -79,16 +79,6 @@ Data Engineer with hands-on experience building end-to-end cloud-native pipeline
 
 ---
 
-## 📅 Contribution Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/0078D4/Rsuthar26" alt="Ripal's Contribution Chart" width="100%"/>
-
-</div>
-
----
-
 ## 📫 Get In Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripal-ra/)
