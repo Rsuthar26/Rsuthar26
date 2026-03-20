@@ -1,10 +1,10 @@
 ![header](https://raw.githubusercontent.com/Rsuthar26/Rsuthar26/main/header.svg)
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjQ0IiB2aWV3Qm94PSIwIDAgOTAwIDQ0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIGZpbGw9IiMwRDExMTciLz48dGV4dCB4PSIwIiB5PSIyOCIgZm9udC1mYW1pbHk9IidIZWx2ZXRpY2EgTmV1ZScsSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSIzMDAiIGZpbGw9IiNGNUY1RjciIGxldHRlci1zcGFjaW5nPSI2Ij5BQk9VVCBNRTwvdGV4dD48cmVjdCB4PSIwIiB5PSIzNCIgd2lkdGg9IjExMiIgaGVpZ2h0PSIwLjgiIGZpbGw9IiMwMDc4RDQiLz48cmVjdCB4PSIxMTIiIHk9IjM0IiB3aWR0aD0iNzg4IiBoZWlnaHQ9IjAuOCIgZmlsbD0iIzFEMUQxRiIvPjwvc3ZnPg==" width="100%"/>
+![about](https://raw.githubusercontent.com/Rsuthar26/Rsuthar26/main/s_about.svg)
 
 Data Engineer with hands-on experience building end-to-end cloud-native pipelines on **AWS** and **Azure**. I've delivered production-grade solutions spanning property market intelligence, real-time analytics, and lakehouse architecture — turning raw data into reliable, scalable platforms that teams actually depend on.
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjQ0IiB2aWV3Qm94PSIwIDAgOTAwIDQ0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIGZpbGw9IiMwRDExMTciLz48dGV4dCB4PSIwIiB5PSIyOCIgZm9udC1mYW1pbHk9IidIZWx2ZXRpY2EgTmV1ZScsSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSIzMDAiIGZpbGw9IiNGNUY1RjciIGxldHRlci1zcGFjaW5nPSI2Ij5TRUxFQ1RFRCBXT1JLPC90ZXh0PjxyZWN0IHg9IjAiIHk9IjM0IiB3aWR0aD0iMTgyIiBoZWlnaHQ9IjAuOCIgZmlsbD0iIzAwNzhENCIvPjxyZWN0IHg9IjE4MiIgeT0iMzQiIHdpZHRoPSI3MTgiIGhlaWdodD0iMC44IiBmaWxsPSIjMUQxRDFGIi8+PC9zdmc+" width="100%"/>
+![work](https://raw.githubusercontent.com/Rsuthar26/Rsuthar26/main/s_work.svg)
 
 | Project | Description | Stack |
 |---|---|---|
@@ -14,7 +14,7 @@ Data Engineer with hands-on experience building end-to-end cloud-native pipeline
 
 > *Always open to collaborating on data engineering / analytics engineering — reach out.*
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjQ0IiB2aWV3Qm94PSIwIDAgOTAwIDQ0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIGZpbGw9IiMwRDExMTciLz48dGV4dCB4PSIwIiB5PSIyOCIgZm9udC1mYW1pbHk9IidIZWx2ZXRpY2EgTmV1ZScsSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSIzMDAiIGZpbGw9IiNGNUY1RjciIGxldHRlci1zcGFjaW5nPSI2Ij5TVEFDSzwvdGV4dD48cmVjdCB4PSIwIiB5PSIzNCIgd2lkdGg9IjcwIiBoZWlnaHQ9IjAuOCIgZmlsbD0iIzAwNzhENCIvPjxyZWN0IHg9IjcwIiB5PSIzNCIgd2lkdGg9IjgzMCIgaGVpZ2h0PSIwLjgiIGZpbGw9IiMxRDFEMUYiLz48L3N2Zz4=" width="100%"/>
+![stack](https://raw.githubusercontent.com/Rsuthar26/Rsuthar26/main/s_stack.svg)
 
 <table width="100%" border="1" cellpadding="10">
   <tr>
@@ -55,7 +55,7 @@ Data Engineer with hands-on experience building end-to-end cloud-native pipeline
   </tr>
 </table>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjQ0IiB2aWV3Qm94PSIwIDAgOTAwIDQ0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIGZpbGw9IiMwRDExMTciLz48dGV4dCB4PSIwIiB5PSIyOCIgZm9udC1mYW1pbHk9IidIZWx2ZXRpY2EgTmV1ZScsSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSIzMDAiIGZpbGw9IiNGNUY1RjciIGxldHRlci1zcGFjaW5nPSI2Ij5TVEFUUzwvdGV4dD48cmVjdCB4PSIwIiB5PSIzNCIgd2lkdGg9IjcwIiBoZWlnaHQ9IjAuOCIgZmlsbD0iIzAwNzhENCIvPjxyZWN0IHg9IjcwIiB5PSIzNCIgd2lkdGg9IjgzMCIgaGVpZ2h0PSIwLjgiIGZpbGw9IiMxRDFEMUYiLz48L3N2Zz4=" width="100%"/>
+![stats](https://raw.githubusercontent.com/Rsuthar26/Rsuthar26/main/s_stats.svg)
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Data Engineer with hands-on experience building end-to-end cloud-native pipeline
 
 </div>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjQ0IiB2aWV3Qm94PSIwIDAgOTAwIDQ0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIGZpbGw9IiMwRDExMTciLz48dGV4dCB4PSIwIiB5PSIyOCIgZm9udC1mYW1pbHk9IidIZWx2ZXRpY2EgTmV1ZScsSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSIzMDAiIGZpbGw9IiNGNUY1RjciIGxldHRlci1zcGFjaW5nPSI2Ij5MRVQnUyBDT05ORUNUPC90ZXh0PjxyZWN0IHg9IjAiIHk9IjM0IiB3aWR0aD0iMTgyIiBoZWlnaHQ9IjAuOCIgZmlsbD0iIzAwNzhENCIvPjxyZWN0IHg9IjE4MiIgeT0iMzQiIHdpZHRoPSI3MTgiIGhlaWdodD0iMC44IiBmaWxsPSIjMUQxRDFGIi8+PC9zdmc+" width="100%"/>
+![connect](https://raw.githubusercontent.com/Rsuthar26/Rsuthar26/main/s_connect.svg)
 
 <div align="center">
 
