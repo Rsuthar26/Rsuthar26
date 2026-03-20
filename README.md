@@ -71,12 +71,6 @@ Data Engineer with hands-on experience building end-to-end cloud-native pipeline
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rsuthar26&bg_color=0D1117&color=0078D4&line=0078D4&point=58A6FF&area=true&area_color=0078D4&hide_border=true"/>
-
-</div>
-
 ---
 
 ## 📫 Get In Touch
