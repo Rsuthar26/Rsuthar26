@@ -65,20 +65,15 @@ Data Engineer with hands-on experience building end-to-end cloud-native pipeline
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rsuthar26&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rsuthar26&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rsuthar26&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=0078D4&icon_color=0078D4&text_color=C9D1D9&bg_color=0D1117"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rsuthar26&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=0078D4&text_color=C9D1D9&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Rsuthar26&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rsuthar26&theme=github-compact&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rsuthar26&bg_color=0D1117&color=0078D4&line=0078D4&point=58A6FF&area=true&area_color=0078D4&hide_border=true"/>
 
 </div>
 
