@@ -83,7 +83,7 @@ Data Engineer with hands-on experience building end-to-end cloud-native pipeline
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/0078D4/Rsuthar26" alt="Ripal's Contribution Chart"/>
+![contrib](https://raw.githubusercontent.com/Rsuthar26/Rsuthar26/main/contrib.svg)
 
 </div>
 
