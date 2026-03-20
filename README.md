@@ -8,13 +8,13 @@ I care deeply about clean architecture, well-tested pipelines, and making data g
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔷 **Lakehouse Accelerator** | Modular ADF + Databricks pipeline templates for rapid Data Lakehouse deployment | ADF · Databricks · Delta Lake · Python |
-| 📊 **Real-time Analytics Platform** | Event-driven streaming pipeline with end-to-end monitoring and alerting | Azure Event Hubs · Spark Structured Streaming · Synapse |
-| 🤖 **ML Feature Store** | Centralised feature engineering and versioning layer for ML model training | PySpark · MLflow · scikit-learn · Delta Lake |
+| 🏠 **[MarketFlow Property Intelligence](https://github.com/Rsuthar26/MarketFlow-Property-Intelligence-AWS-DE-)** | End-to-end AWS data engineering pipeline for property market intelligence and analytics | AWS · S3 · Glue · Athena · Python |
+| 🔷 **[Azure DE Project](https://github.com/Rsuthar26/Azure-DE-Project-)** | Cloud-native data engineering solution built on the Azure ecosystem with scalable pipeline architecture | ADF · Databricks · Synapse · Delta Lake |
+| 🏡 **[UrbanNest Property Analytics](https://github.com/Rsuthar26/UrbanNest-Property-Analytics-AWS-Data-Pipeline-Project)** | AWS data pipeline project delivering end-to-end property analytics from ingestion to serving layer | AWS · Spark · S3 · Lambda · Python |
 
 > 💡 *Always open to collaborating on data engineering / analytics engineering — reach out!*
 
