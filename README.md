@@ -8,7 +8,7 @@ Data Engineer with hands-on experience building end-to-end cloud-native pipeline
 
 | Project | Description | Stack |
 |---|---|---|
-| <a href="https://github.com/Rsuthar26/ecommerce-lakehouse"><b>Ecommerce Lakehouse</b></a> | End-to-end lakehouse architecture for ecommerce analytics built on modern data engineering principles | Databricks · Delta Lake · Spark · Python |
+| <a href="https://github.com/Rsuthar26/ecommerce-lakehouse"><b>Ecommerce Lakehouse</b></a> | End-to-end lakehouse architecture for ecommerce analytics built on modern data engineering principles | Databricks · Delta Lake · Spark · Python · AWS |
 | <a href="https://github.com/Rsuthar26/MarketFlow-Property-Intelligence-AWS-DE"><b>MarketFlow Property Intelligence</b></a> | End-to-end AWS data engineering pipeline for property market intelligence and analytics | AWS · S3 · Glue · Athena · Python |
 | <a href="https://github.com/Rsuthar26/Azure-DE-Project"><b>Azure DE Project</b></a> | Cloud-native data engineering solution built on the Azure ecosystem with scalable pipeline architecture | ADF · Databricks · Synapse · Delta Lake |
 | <a href="https://github.com/Rsuthar26/UrbanNest-Property-Analytics-AWS-Data-Pipeline-Project"><b>UrbanNest Property Analytics</b></a> | AWS data pipeline project delivering end-to-end property analytics from ingestion to serving layer | AWS · Spark · S3 · Lambda · Python |
